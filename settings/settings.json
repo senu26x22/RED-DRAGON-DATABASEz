@@ -1,5 +1,5 @@
 {
-  "PREFIX": ".",
+  "PREFIX": "#",
   "PORT": "8000",
   "SUDO": "94740639280",
   "SESSION_NAME": "psyco",
