@@ -7,7 +7,7 @@
   "AUTO_READ_STATUS": "true",
   "MODE": "groups",
   "AUTO_VOICE": "true",
-  "AUTO_REPLY": "true",
+  "AUTO_REPLY": "false",
   "AUTO_STICKER": "false",
   "ANTI_BAD": "false",
   "ANTI_LINK": "true",
