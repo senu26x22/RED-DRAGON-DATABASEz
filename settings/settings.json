@@ -6,7 +6,7 @@
   "ALIVE_MSG": "*Hello , I am alive now!!*",
   "AUTO_READ_STATUS": "true",
   "MODE": "groups",
-  "AUTO_VOICE": "true",
+  "AUTO_VOICE": "false",
   "AUTO_REPLY": "false",
   "AUTO_STICKER": "false",
   "ANTI_BAD": "false",
