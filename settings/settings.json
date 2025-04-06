@@ -5,7 +5,7 @@
   "SESSION_NAME": "psyco",
   "ALIVE_MSG": "*Hello , I am alive now!!*",
   "AUTO_READ_STATUS": "true",
-  "MODE": "inbox",
+  "MODE": "groups",
   "AUTO_VOICE": "true",
   "AUTO_REPLY": "true",
   "AUTO_STICKER": "false",
