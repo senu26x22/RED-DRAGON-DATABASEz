@@ -27,5 +27,6 @@
   "AUTO_TIKTOK_SENDER": "false",
   "SEEDER_GMAIL": "",
   "SEEDER_PASSWORD": "",
-  "BAD_NO_BLOCK": "false"
+  "BAD_NO_BLOCK": "false",
+  "ALWAYS_OFFLINE": "false"
 }
