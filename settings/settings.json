@@ -8,7 +8,7 @@
   "MODE": "public",
   "AUTO_VOICE": "false",
   "AUTO_REPLY": "false",
-  "AUTO_STICKER": "true",
+  "AUTO_STICKER": "false",
   "ANTI_BAD": "false",
   "ANTI_LINK": "true",
   "ANTI_CALL": "true",
