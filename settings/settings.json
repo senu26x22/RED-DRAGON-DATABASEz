@@ -18,7 +18,7 @@
   "WELCOME_GOODBYE": "false",
   "ALLWAYS_OFFLINE": "false",
   "READ_CMD": "true",
-  "RECORDING": "true",
+  "RECORDING": "false",
   "AI_CHAT": "false",
   "AUTO_REACT": "false",
   "NEWS_SEND_JID": "",
