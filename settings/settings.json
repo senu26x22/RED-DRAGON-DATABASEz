@@ -11,7 +11,7 @@
   "AUTO_STICKER": "true",
   "ANTI_BAD": "false",
   "ANTI_LINK": "true",
-  "ANTI_CALL": "true",
+  "ANTI_CALL": "false",
   "DELETEMSGSENDTO": "",
   "ANTI_DELETE": "true",
   "ANTI_BOT": "true",
