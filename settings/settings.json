@@ -8,7 +8,7 @@
   "MODE": "groups",
   "AUTO_VOICE": "true",
   "AUTO_REPLY": "true",
-  "AUTO_STICKER": "false",
+  "AUTO_STICKER": "true",
   "ANTI_BAD": "false",
   "ANTI_LINK": "true",
   "ANTI_CALL": "true",
