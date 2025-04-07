@@ -17,7 +17,7 @@
   "ANTI_BOT": "true",
   "WELCOME_GOODBYE": "false",
   "ALLWAYS_OFFLINE": "false",
-  "READ_CMD": "false",
+  "READ_CMD": "true",
   "RECORDING": "true",
   "AI_CHAT": "false",
   "AUTO_REACT": "false",
